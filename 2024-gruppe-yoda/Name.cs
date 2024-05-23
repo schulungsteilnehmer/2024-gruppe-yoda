@@ -1,24 +1,29 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Text.RegularExpressions;
 
-namespace Zeugnismodell;
-
-public class Name
+namespace Zeugnismodell
 {
-    public static void FormatName()
+    public class Name
     {
-        Console.WriteLine(
-            "Bitte geben Sie Ihren Namen ein: ");
-        string input = Console.ReadLine();
+        public string name;
 
-        if (IsValidName(input))
+        public static string FormatName()
         {
-        }
-        else
-        {
-            Console.WriteLine("Der eingegebene Name ist falsch.");
+            Console.WriteLine("Bitte geben Sie Ihren Namen ein: ");
+            string input = Console.ReadLine();
+
+            if (IsValidName(input))
+            {
+                return input;
+            }
+            else
+            {
+                Console.WriteLine("Der eingegebene Name ist falsch.");
+                return FormatName(); 
+            }
         }
 
-        static bool IsValidName(string name)
+        private static bool IsValidName(string name)
         {
             string pattern = @"^[a-zA-ZäöüÄÖÜß\s-]+$";
             return Regex.IsMatch(name, pattern);

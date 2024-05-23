@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2024-gruppe-yoda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e9530544319041d32cbb753e5e270e7fa5f24e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce949cb7e2ddd966f66d66948709ad8a8e84396")]
 [assembly: System.Reflection.AssemblyProductAttribute("2024-gruppe-yoda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2024-gruppe-yoda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

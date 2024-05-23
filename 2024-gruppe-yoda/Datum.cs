@@ -1,30 +1,33 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
 
-namespace Zeugnismodell;
-
-public class Datum
+namespace Zeugnismodell
 {
-    public static void Geburtsdatum()
+    public class Datum
     {
-        Console.WriteLine("Bitte geben Sie Ihr Geburtsdatum ein (DD,MM,YY):");
+        public string datum;
 
-        string input = Console.ReadLine();
-
-        if (IsValidDate(input))
+        public static string Geburtsdatum()
         {
-            Console.WriteLine("Das eingegebene Datum ist korrekt.");
-        }
-        else
-        {
-            Console.WriteLine("Das eingegebene Datum ist falsch.");
+            Console.WriteLine("Bitte geben Sie Ihr Geburtsdatum ein (DD.MM.YYYY):");
+            string input = Console.ReadLine();
+
+            if (IsValidDate(input))
+            {
+                return input;
+            }
+            else
+            {
+                Console.WriteLine("Das eingegebene Datum ist falsch.");
+                return Geburtsdatum(); 
+            }
         }
 
-        static bool IsValidDate(string date)
+        private static bool IsValidDate(string date)
         {
             DateTime tempDate;
-            string format = "dd.MM.yy";
-            bool valid = DateTime.TryParseExact(date, format, CultureInfo.InvariantCulture, DateTimeStyles.None,
-                out tempDate);
+            string format = "dd.MM.yyyy";
+            bool valid = DateTime.TryParseExact(date, format, CultureInfo.InvariantCulture, DateTimeStyles.None, out tempDate);
             return valid;
         }
     }

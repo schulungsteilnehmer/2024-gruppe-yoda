@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda.csproj",
+      "projectUniqueName": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda.csproj",
       "projectName": "2024-gruppe-yoda",
-      "projectPath": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda.csproj",
+      "projectPath": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda.csproj",
       "packagesPath": "C:\\Users\\henta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\2024-gruppe-yoda\\obj\\",
+      "outputPath": "C:\\Users\\henta\\RiderProjects\\2024-gruppe-yoda\\2024-gruppe-yoda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henta\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\bin\Debug\net8.0\2024-gruppe-yoda.exe
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\bin\Debug\net8.0\2024-gruppe-yoda.deps.json
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\bin\Debug\net8.0\2024-gruppe-yoda.runtimeconfig.json
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\bin\Debug\net8.0\2024-gruppe-yoda.dll
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\bin\Debug\net8.0\2024-gruppe-yoda.pdb
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.AssemblyInfoInputs.cache
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.AssemblyInfo.cs
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.csproj.CoreCompileInputs.cache
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.sourcelink.json
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.dll
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\refint\2024-gruppe-yoda.dll
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.pdb
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\2024-gruppe-yoda.genruntimeconfig.cache
+C:\Users\henta\RiderProjects\2024-gruppe-yoda\2024-gruppe-yoda\obj\Debug\net8.0\ref\2024-gruppe-yoda.dll
