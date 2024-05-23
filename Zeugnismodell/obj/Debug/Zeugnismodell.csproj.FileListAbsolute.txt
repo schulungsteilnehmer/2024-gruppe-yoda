@@ -1,6 +1,0 @@
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\obj\Debug\Zeugnismodell.csprojResolveAssemblyReference.cache
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\bin\Debug\Zeugnismodell.exe.config
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\bin\Debug\Zeugnismodell.exe
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\bin\Debug\Zeugnismodell.pdb
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\obj\Debug\Zeugnismodell.exe
-C:\Dokumente\C#\Zeugnismodell\Zeugnismodell\obj\Debug\Zeugnismodell.pdb
